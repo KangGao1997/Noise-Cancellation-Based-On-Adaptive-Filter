@@ -11,6 +11,6 @@ To extract the speech signal from the environment noise, the NLMS and Newton alg
 
 The primary signal contains vacuum cleaner noise only. Reference signal contains vacuum cleaner noise and unrecognizable speech.
 
-There are 2 audio files included in the folder. primary.WAV is the primary signal shown in the block diagram, which contains only the vacuum cleaner noise. The reference.WAV contains vacuum cleaner noise and speech signal.
+There are 2 audio files included in the folder. primary.WAV is the primary signal shown in the block diagram, which contains only the vacuum cleaner noise. The reference.WAV contains vacuum cleaner noise and speech signal. The files are included in the project1.mat, which is loaded in the programming.
 
 In the project, the primary signal used as input signal and reference signal used as desired signal.
